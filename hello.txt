@@ -7,3 +7,6 @@ bbbbbbbbbbbbbbbbbbbbb
 ccccccccccccccc
 ddddddddddd
 eeeeeeeeeeeeeeeeeeeeeeeee
+add some content to hello.txt
+
+edc=19910822
