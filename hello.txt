@@ -8,6 +8,12 @@ ccccccccccccccc
 ddddddddddd
 eeeeeeeeeeeeeeeeeeeeeeeee
 
+
 уевXНё
 19910822
 15693118660
+
+add some content to hello.txt
+
+edc=19910822
+
